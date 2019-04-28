@@ -1,4 +1,5 @@
 # handwriting-weapp
+###转载：[查看原版](https://github.com/momtboy/handwriting-weapp)
 微信小程序Canvas手写板(use canvas in weapp for user signature)
 
 ![demo](https://github.com/tclyjy/handwriting-weapp/blob/master/images/handwriting.gif?raw=true)
